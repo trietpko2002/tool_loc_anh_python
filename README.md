@@ -8,7 +8,6 @@
 - [@trietpko2002](https://github.com/trietpko2002)
 ## Danh mục:
 
- - [Tác giả](https://github.com/trietpko2002/tool_loc_anh_python/blob/main/README.md#t%C3%A1c-gi%E1%BA%A3)
  - [Lịch sử cập nhật](https://github.com/trietpko2002/tool_loc_anh_python/blob/main/README.md#l%E1%BB%8Bch-s%E1%BB%AD-c%E1%BA%ADp-nh%E1%BA%ADt)
  - [Tính năng](https://github.com/trietpko2002/tool_loc_anh_python/blob/main/README.md#t%C3%ADnh-n%C4%83ng-ch%C3%ADnh)
 - [Cách cài đặt](https://github.com/trietpko2002/tool_loc_anh_python/blob/main/README.md#c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t)
