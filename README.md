@@ -9,7 +9,8 @@
 
 
 ## Lịch sử cập nhật:
-
+- V 2.2:
+    -  Sửa lỗi cắt ảnh thành copy ảnh
 - V 2.1:
     -  Sửa lỗi link donate bị lỗi
 - V 2.0:
@@ -55,8 +56,10 @@ Tải về trong mục Releases:
 
 - Demo video : Sắp có
 
+## Check virus : Phần mềm sạch (có mấy cái diệt virus nó báo tào lao quá, 100% không có virus)
 
-
+![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/123.png)
+![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/456.png)
 
 # Donate Project tại đây: 
 
