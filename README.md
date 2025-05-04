@@ -6,6 +6,21 @@
 ## Tác giả:
 
 - [@trietpko2002](https://github.com/trietpko2002)
+## Password đề giải nén app
+Pass : toollocanh
+
+## Code checksum file tránh bị virus:
+```bash
+  File chưa giải nén:
+
+MD5: 52633318A76F38C40C6CE1822976D571
+SHA256: 22a077bd5c76ffc883d91932c748c14bcf90fbd5c96fe2c32aa538e26ee571bd
+
+  Đã giải nén file:
+
+MD5: A8A98A7391E92675042D4AEE651FAA0D
+SHA256: 074fd1b89e5dd3078760b479288ecad683c65aeaa29444fd1b581eec7d1f6b25
+```
 ## Danh mục:
 
  - [Lịch sử cập nhật](https://github.com/trietpko2002/tool_loc_anh_python/blob/main/README.md#l%E1%BB%8Bch-s%E1%BB%AD-c%E1%BA%ADp-nh%E1%BA%ADt)
