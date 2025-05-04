@@ -18,6 +18,10 @@
 
 
 ## Lịch sử cập nhật:
+- V 3.0:
+    - Thêm 4 thư mục lọc và được chọn mỗi thư mục lọc từng ảnh 
+    - Về phần key kích hoạt đã hợp nhất thành 1 key vĩnh viễn dùng nhiều lần / 50 lượt dùng app
+    - Giao diện dễ nhìn và dễ thao tác
 - V 2.2:
     -  Sửa lỗi cắt ảnh thành copy ảnh
 - V 2.1:
