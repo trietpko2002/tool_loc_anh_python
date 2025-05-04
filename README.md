@@ -6,7 +6,7 @@
 ## Tác giả:
 
 - [@trietpko2002](https://github.com/trietpko2002)
-## Password đề giải nén app
+## Password để giải nén app
 Pass : toollocanh
 
 ## Code checksum file tránh bị virus:
@@ -84,9 +84,9 @@ Tải về trong mục Releases:
 
 - Giao diện chính
 
-![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/3.jpg)
+![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/12.png)
 
-- Demo video : [Bấm vào đây để xem Demo](https://www.youtube.com/watch?v=YBb_AeiLnBs)
+- Demo video : [Bấm vào đây để xem Demo](https://www.youtube.com/watch?v=fv0oM1BhCiI)
 
 
 ## Check virus : Phần mềm sạch (có mấy cái diệt virus nó báo tào lao quá, 100% không có virus)
