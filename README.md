@@ -63,7 +63,10 @@ Tải về trong mục Releases:
 
 ![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/3.jpg)
 
-- Demo video : Sắp có
+- Demo video :
+  
+[![Watch the video](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/3.jpg)](https://github.com/trietpko2002/trietpko2002.github.io/raw/refs/heads/main/bandicam%202025-05-04%2009-29-39-883.mp4)
+
 
 ## Check virus : Phần mềm sạch (có mấy cái diệt virus nó báo tào lao quá, 100% không có virus)
 
