@@ -52,6 +52,10 @@ Tải về trong mục Releases:
   Sau khi tải về thì mở phần mềm, thì Extract ra thư mục nào đó!
   Lưu ý: Từ Windows 10 mới chạy được nhé!!
 ```
+```bash
+  Sau khi tải về mở lên thì nhập key kích hoạt - 1 key duy nhất ở đây nhé 
+  VBNE7-RTYUI-KLZXC-MQAS1
+```
     
 ## Giao diện app
 
