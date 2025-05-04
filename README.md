@@ -63,9 +63,7 @@ Tải về trong mục Releases:
 
 ![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/3.jpg)
 
-- Demo video :
-  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YBb_AeiLnBs/0.jpg)](https://www.youtube.com/watch?v=YBb_AeiLnBs)
+- Demo video : [Bấm vào đây để xem Demo](https://www.youtube.com/watch?v=YBb_AeiLnBs)
 
 
 ## Check virus : Phần mềm sạch (có mấy cái diệt virus nó báo tào lao quá, 100% không có virus)
