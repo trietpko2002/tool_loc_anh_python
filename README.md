@@ -59,7 +59,7 @@ Tải về trong mục Releases:
   Lưu ý: Hỗ trợ hệ điều hành Windows 10 x64 trở lên!
 ```
 ```bash
-  Sau khi tải về mở lên thì nhập key kích hoạt - 1 key duy nhất ở đây nhé 
+  Key kích hoạt - 1 key duy nhất ở đây nhé 
   VBNE7-RTYUI-KLZXC-MQAS1
 ```
     
