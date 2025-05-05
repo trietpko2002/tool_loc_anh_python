@@ -6,20 +6,11 @@
 ## Tác giả:
 
 - [@trietpko2002](https://github.com/trietpko2002)
-## Password để giải nén app
-Pass : toollocanh
 
 ## Code checksum file tránh bị virus:
 ```bash
-  File chưa giải nén:
-
-MD5: 52633318A76F38C40C6CE1822976D571
-SHA256: 22a077bd5c76ffc883d91932c748c14bcf90fbd5c96fe2c32aa538e26ee571bd
-
-  Đã giải nén file:
-
-MD5: A8A98A7391E92675042D4AEE651FAA0D
-SHA256: 074fd1b89e5dd3078760b479288ecad683c65aeaa29444fd1b581eec7d1f6b25
+  MD5: 481F124A7565C14BDAB2C5CEF17B63F9
+SHA256: 894b75aa4c1792651aad69370ec428efe37a40dd33f6923bd91a428384830043
 ```
 ## Danh mục:
 
@@ -64,8 +55,8 @@ SHA256: 074fd1b89e5dd3078760b479288ecad683c65aeaa29444fd1b581eec7d1f6b25
 Tải về trong mục Releases: 
 
 ```bash
-  Sau khi tải về thì mở phần mềm, thì Extract ra thư mục nào đó!
-  Lưu ý: Từ Windows 10 mới chạy được nhé!!
+  Sau khi tải về thì cài đặt phần mềm rồi chạy nhé
+  Lưu ý: Hỗ trợ hệ điều hành Windows 10 x64 trở lên!
 ```
 ```bash
   Sau khi tải về mở lên thì nhập key kích hoạt - 1 key duy nhất ở đây nhé 
