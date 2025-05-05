@@ -80,10 +80,8 @@ Tải về trong mục Releases:
 - Demo video : [Bấm vào đây để xem Demo](https://www.youtube.com/watch?v=fv0oM1BhCiI)
 
 
-## Check virus : Phần mềm sạch (có mấy cái diệt virus nó báo tào lao quá, 100% không có virus)
-
-![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/123.png)
-![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/456.png)
+## Check virus : File sạch virus, có mấy cái con diệt virus báo ẩu quá nha :v
+[Bấm vào đây](https://www.virustotal.com/gui/file/e0d723c28ee0cf4146baea6be5735ea8cfd6708a9e723be969eb7ca5133932b2?nocache=1)
 
 # Donate Project tại đây: 
 
