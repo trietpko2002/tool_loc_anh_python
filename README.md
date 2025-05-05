@@ -7,7 +7,7 @@
 
 - [@trietpko2002](https://github.com/trietpko2002)
 
-## Code checksum file tránh bị virus:
+## Code checksum file trước khi cài đặt app để tránh tải nhầm file có virus:
 ```bash
   MD5: 481F124A7565C14BDAB2C5CEF17B63F9
 SHA256: 894b75aa4c1792651aad69370ec428efe37a40dd33f6923bd91a428384830043
