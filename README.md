@@ -9,8 +9,8 @@
 
 ## Code checksum file trước khi cài đặt app để tránh tải nhầm file có virus:
 ```bash
-  MD5: 481F124A7565C14BDAB2C5CEF17B63F9
-SHA256: 894b75aa4c1792651aad69370ec428efe37a40dd33f6923bd91a428384830043
+  MD5: c93ae3dc3a1e352c97c2ddc8d74f82b4
+SHA-1: 164f99d58b64fe9b625fdd95f40c1d8fb42c9fb3
 ```
 ## Danh mục:
 
@@ -24,6 +24,11 @@ SHA256: 894b75aa4c1792651aad69370ec428efe37a40dd33f6923bd91a428384830043
 
 
 ## Lịch sử cập nhật:
+- V 4.0:
+    - Thêm Lọc Video
+    - Thêm 5 thư mục lọc ảnh
+    - Thêm dark mode
+    - Loại bỏ hoàn toàn bản quyền vĩnh viễn
 - V 3.0:
     - Thêm 4 thư mục lọc và được chọn mỗi thư mục lọc từng ảnh 
     - Về phần key kích hoạt đã hợp nhất thành 1 key vĩnh viễn dùng nhiều lần / 50 lượt dùng app
@@ -64,15 +69,6 @@ Tải về trong mục Releases:
 ```
     
 ## Giao diện app
-
-- Giao diện kích hoạt key
-
-![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/1.jpg)
-
-- Giao diện đã kích hoạt
-
-![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/2.jpg)
-
 - Giao diện chính
 
 ![image](https://raw.githubusercontent.com/trietpko2002/trietpko2002.github.io/refs/heads/main/img/12.png)
@@ -81,7 +77,7 @@ Tải về trong mục Releases:
 
 
 ## Check virus : File sạch virus, có mấy cái con diệt virus báo ẩu quá nha :v
-[Bấm vào đây](https://www.virustotal.com/gui/file/e0d723c28ee0cf4146baea6be5735ea8cfd6708a9e723be969eb7ca5133932b2?nocache=1)
+[Bấm vào đây](https://www.virustotal.com/gui/file/9a99a537033c1b46f9c9f65d98cce70954513e55c1909d7ee00fe16a3cf88fe4?nocache=1)
 
 # Donate Project tại đây: 
 
