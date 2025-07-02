@@ -57,16 +57,7 @@ SHA-1: 164f99d58b64fe9b625fdd95f40c1d8fb42c9fb3
 
 ## Cách cài đặt
 
-Tải về trong mục Releases: 
-
-```bash
-  Sau khi tải về thì cài đặt phần mềm rồi chạy nhé
-  Lưu ý: Hỗ trợ hệ điều hành Windows 10 x64 trở lên!
-```
-```bash
-  Key kích hoạt - 1 key duy nhất ở đây nhé 
-  VBNE7-RTYUI-KLZXC-MQAS1
-```
+Tải về trong mục Releases mới nhất!
     
 ## Giao diện app
 - Giao diện chính
